@@ -1,0 +1,22 @@
+Humans.txt
+
+/* humanstxt.org */
+
+/* AUTHOR */
+	Development: Anne Orfert
+	Site: https://www.hanseventures.com/
+	Twitter: @HuldaLa
+	Location: Hamburg, Germany
+
+	Design: Carolin Reis
+	Site: https://www.slyfox-design.de/
+	Twitter: @carolin_reis
+	Location: Hamburg, Germany
+
+/* TOOLS */
+	Apple MacBook Pro
+	Sublime Text
+
+	
+/* SITE */
+	Standards: HTML5, CSS, Node.js, Gulp, Docker

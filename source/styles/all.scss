@@ -1,0 +1,78 @@
+//Branding Colors
+$techigo: #2C70FF;
+$darkestnight: #232528;
+$royalalien: #1329B2;
+
+$white: #FFF;
+
+
+//Typo
+h1, h2, h3, h4, h5 {
+  color: $techigo;
+}
+
+//Basics
+.btn-outline-secondary {
+  color: lighten($techigo, 15%);
+  border-color: lighten($techigo, 15%);
+}
+
+.btn-outline-secondary:hover {
+  border-color: $white;
+  background-color: $white;
+  color: $techigo;
+}
+
+.navbar {
+  background-color: $techigo;
+
+  
+  li a {
+    color: lighten($techigo, 15%);
+    transition: ease-in-out color .15s;
+  }
+
+  li a:hover {
+    color: $white;
+  }
+
+  #logo {
+    height: 35px;
+  }
+}
+
+.hero {
+  background-color: $techigo;
+
+  h1 {
+    color: $white;
+  }
+
+  .lead {
+    color: lighten($techigo, 15%);
+  }
+}
+
+.hero-footer {
+  background-image: url(/images/logo_starterkit_long_blue.svg);
+  background-repeat: no-repeat;
+  font-size: 0;
+  width: 250px;
+  height: 63px;
+  background-size: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.copy {
+  background-color: $darkestnight;
+}
+
+
+
+
+
+
+
+
+

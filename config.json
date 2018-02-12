@@ -1,0 +1,13 @@
+{
+  "folder": {
+    "app": "source/",
+    "dist": "dist/"
+  },
+  "paths": {
+    "scripts": ["scripts/**/*.js"],
+    "styles": ["styles/**/*.scss"],
+    "html": ["templates/**/*.html"],
+    "images": ["images/**/*.*"],
+    "extras": ["human.txt", "robots.txt", "favicon.ico"]
+  }
+}
